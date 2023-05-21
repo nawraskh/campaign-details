@@ -1,11 +1,7 @@
 package com.Nawras.campaigndetails.resources;
 
-
 import com.Nawras.campaigndetails.models.Campaign;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
